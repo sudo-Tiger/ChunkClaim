@@ -1,0 +1,6 @@
+name: ChunkClaim
+version: '${project.version}'
+main: ch.chunkclaim.ChunkClaim
+api-version: '1.19'
+commands:
+  chunk:
